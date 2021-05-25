@@ -1,0 +1,29 @@
+gold:
+  total: 5912599999515
+  decimals: 0
+  defaultFrozen: false
+  unitName: "GLD"
+  url: "url"
+  # User may get "signature validation failed" from node if shorter hash is used.
+  metadataHash: "12312442142141241244444411111133"
+  note: "note"
+  noteb64: "noteb64"
+  manager: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  reserve: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  freeze: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  clawback: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  optInAccNames: ["john"]
+tesla:
+  total: 300000
+  decimals: 0
+  defaultFrozen: false
+  unitName: "TSLA"
+  url: "url"
+  # User may get "signature validation failed" from node if shorter hash is used.
+  metadataHash: "12312442142141241244444411111133"
+  note: "note"
+  noteb64: "noteb64"
+  manager: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  reserve: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  freeze: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"
+  clawback: "SGPYOXWJBXXLD4LV4I5MZSODK3Z7KFNQJZZ2YTVNONIZS34YPCVGULGO6A"

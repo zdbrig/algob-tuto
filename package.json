@@ -1,0 +1,21 @@
+{
+  "name": "algob-bacem",
+  "version": "1.0.0",
+  "description": "This is a sample project",
+  "main": "algob.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@algo-builder/algob": "^1.0.2",
+    "@algorand-builder/algob": "^0.5.3",
+    "algob": "^0.0.5",
+    "global": "^4.4.0",
+    "mocha": "^8.4.0"
+  }
+}
